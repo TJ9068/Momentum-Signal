@@ -1,11 +1,3 @@
-# =============================================
-# Name: Tanvi Johri
-# Student ID: 806555315
-# Assignment: Problem Set 3 (QAM MFE)
-# File: PS3_806555315.py
-# =============================================
-
-
 #Load libraries
 import pandas as pd
 import numpy as np
