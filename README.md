@@ -1,4 +1,4 @@
-readme_text = """
+ """
 # Momentum Portfolio Replication using CRSP and Fama-French Data
 
 This project replicates and analyzes the momentum strategy framework laid out by **Daniel & Moskowitz (2016)** using CRSP stock returns and Fama-French factors. It involves constructing a (12,2) momentum signal, assigning decile portfolios using both equal-firm and NYSE-breakpoint methods, and evaluating the performance of long-short momentum strategies.
