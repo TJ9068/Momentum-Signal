@@ -35,14 +35,14 @@ To explore the historical performance of momentum investing by:
 
 ## Key Results
 
-| Metric             | DM WML | KRF WML | Professor Benchmark |
+| Metric             | DM WML | KRF WML |       Benchmark      |
 |--------------------|--------|---------|----------------------|
 | Excess Return (%)  | 11.08  | 7.76    | 17.65 / 13.64        |
 | Sharpe Ratio       | 0.40   | 0.30    | 0.58 / 0.50          |
 | Skewness           | -3.47  | -4.18   | -4.64 / -5.60        |
 | Correlation (WML)  | 0.89   | 0.89    | 0.99+                |
 
-📌 While our WML returns and Sharpe ratios were slightly lower, this is attributable to technical differences like reduced DLRET coverage and sorting precision — not sample mismatch (both used 1927–2024).
+While our WML returns and Sharpe ratios were slightly lower, this is attributable to technical differences like reduced DLRET coverage.
 
 ## Interpretation
 
